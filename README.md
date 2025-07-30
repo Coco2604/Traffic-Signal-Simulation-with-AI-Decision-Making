@@ -39,6 +39,14 @@ Replace YOUR_API_KEY in the code with your actual API key.
    python main.py
 2. The simulation window will open, showing the intersection with traffic signals and moving vehicles.
 
+## Example Simulation
+
+Below is a sample output from the simulation:
+
+![Simulation Output](simulation-output.png)
+
+[Watch Simulation Video](simulation-video.mp4)
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
